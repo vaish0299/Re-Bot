@@ -6,7 +6,7 @@ This script is designed to automate various tasks on Reddit using the PRAW (Pyth
 
 2. **Upvoting Posts**: It can upvote the latest posts in the specified subreddits.
 
-3. **Saving Earth-related Posts**: The script saves Earth-related posts in the specified subreddits based on predefined keywords.
+3. **Saving Posts**: The script saves posts related to an topic in the specified subreddits based on predefined keywords.
 
 4. **Searching for Subreddits**: It can search for subreddits based on user-defined search queries.
 

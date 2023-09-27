@@ -1,0 +1,17 @@
+Subreddit: worldnews
+Title: vaish review
+Content: Somewhere on the planet1
+Image: image.png
+Search Query: fun
+
+Subreddit: movies
+Title: lokesh review2
+Content: Somewhere on the planet2
+Image: image2.jpeg
+Search Query: fun
+
+Subreddit: CasualConversation
+Title: New dad review3
+Content: Somewhere on the planet3
+Image: image3.jpeg
+Search Query: fun

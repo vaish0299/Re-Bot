@@ -2,11 +2,11 @@ import praw
 import time
 
 # Your Reddit API credentials and user agent
-client_id='qP3lYR-Zm0LRh4cNOXyxeQ'
-client_secret='AUHUGLnesig4ZmYleIZ9gbwLRzDSAQ'
-username='GlitteringBet6504'
-password='Testing@1999'
-user_agent='re-Bot by GlitteringBet6504'
+client_id='client_id'
+client_secret='client_secret'
+username='username'
+password='password'
+user_agent='user_agent'
 
 reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,

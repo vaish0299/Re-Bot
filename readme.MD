@@ -64,7 +64,4 @@ To use this script, follow these steps:
 
 5. **API Credentials**: Ensure that you have Reddit API credentials (client ID, client secret, username, password, and user agent) and replace the placeholders in the script with your actual credentials.
 
-6. **License and Author**: Please review the license terms provided in the "License" section of this README. Replace `[Your Name]` in the "Author" section with your name or your organization's name.
-
-Feel free to customize the tasks in `data.txt` and rerun the script as needed to automate various Reddit actions.
 
